@@ -9,7 +9,7 @@ body {
     background-color: #3d0000;
 }
 .header {
-    background-image: url("https://sreehari-san.github.io/snv/images/school-transformed.jpg");
+    background-image: url('https://sreehari-san.github.io/snv/images/school-transformed.jpg');
     background-size: cover;
     height: 100vh;
 }
