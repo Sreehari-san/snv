@@ -9,7 +9,7 @@ body {
     background-color: #3d0000;
 }
 .header { 
-    background-image: url("./images/school-transformed.jpeg");
+    background-image: url("../images/school-transformed.jpeg");
     background-size: cover;
     height: 100vh;
 }
