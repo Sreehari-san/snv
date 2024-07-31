@@ -8,8 +8,7 @@ body {
 .header nav {
     background-color: #3d0000;
 }
-.header { 
-    background-image: url("./images/school-transformed.JPEG");
+.header {
     background-size: cover;
     height: 100vh;
 }
