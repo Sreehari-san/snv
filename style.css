@@ -1,0 +1,51 @@
+html {
+    scroll-behavior: smooth;
+}
+body { 
+    font-family: 'poppins', sans-serif;
+    background-color: #3d0000;
+}
+.header nav {
+    background-color: #3d0000;
+}
+.header { 
+    background-image: url("/images/school-transformed.jpeg");
+    background-size: cover;
+    height: 100vh;
+}
+.header h1 {
+    color: white;
+    margin-top: 30vh;
+    margin-left: 30px;
+}
+.header p {
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.about {
+    padding: 15px;
+}
+.about h2 {
+    
+    color: white;
+    margin-top: 30px;
+}
+.about p {
+    
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 10px;
+}
+.column {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.card-text {
+    color: #3B3F5C;
+}
+.values h1 {
+    margin-bottom: 30px;
+}
+footer h5 {
+    font-weight: 400;
+}
